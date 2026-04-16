@@ -2,10 +2,10 @@ Algoritmo Act2_Lecc7_Inciso1
 	Definir opc Como Real
 	
 	Escribir "******************"
-	Escribir "BUZÓN DE VOZ"
+	Escribir "BUZÃ“N DE VOZ"
 	Escribir "1- Escuchar Mensajes"
 	Escribir "2- Grabar Saludo"
-	Escribir "3- Configuración"
+	Escribir "3- ConfiguraciÃ³n"
 	Escribir "4- Salir"
 	Leer opc
 	
@@ -18,10 +18,10 @@ Algoritmo Act2_Lecc7_Inciso1
 			Escribir "Grabar un nuevo saludo de voz"
 		3:
 			Escribir "Usted ha solicitado ---> "
-			Escribir "Entrar al menú de configuración"
+			Escribir "Entrar al menÃº de configuraciÃ³n"
 		4:
 			Escribir "Saliendo del sistema..."
 		De Otro Modo:
-			Escribir "Seleccione una opción válida!!"
+			Escribir "Seleccione una opciÃ³n vÃ¡lida!!"
 	Fin Segun
 FinAlgoritmo
