@@ -1,7 +1,7 @@
 Algoritmo Act2_Lecc7_Inciso2
 	Definir nota Como Real
 	
-	Escribir "Ingrese la nota numérica (0 a 100): "
+	Escribir "Ingrese la nota numÃ©rica (0 a 100): "
 	Leer nota
 	
 	Si nota >= 90 Entonces
